@@ -129,7 +129,7 @@
               >單位從封建時代開始，每個時代遠防+1
             </li>
             <li>
-              <nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>免費升級
+              金礦存量+30%
             </li>
             <li>
               <strong>團隊加分</strong>:<nuxt-link to="/building/University"
